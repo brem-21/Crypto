@@ -1,0 +1,23 @@
+[project]
+name = "crypto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black",
+    "catboost",
+    "hyperopt",
+    "lightgbm",
+    "matplotlib",
+    "mlflow",
+    "numpy",
+    "pandas",
+    "pylint",
+    "python-dotenv",
+    "scikit-learn",
+    "scipy",
+    "seaborn",
+    "setuptools",
+    "xgboost",
+]

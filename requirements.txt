@@ -1,0 +1,15 @@
+pylint
+black
+mlflow
+pandas
+numpy
+scipy
+scikit-learn
+seaborn
+matplotlib
+xgboost
+catboost
+lightgbm
+hyperopt
+setuptools
+python-dotenv
