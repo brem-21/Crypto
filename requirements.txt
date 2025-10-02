@@ -13,3 +13,6 @@ lightgbm
 hyperopt
 setuptools
 python-dotenv
+jupyter
+ipykernel
+notebook
