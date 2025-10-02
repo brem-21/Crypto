@@ -1,0 +1,11 @@
+passengerid,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,survived
+693,3,"Lam, Mr. Ali",male,25.4,0,0,1601,56.4958,C95,S,1
+482,2,"Frost, Mr. Anthony Wood ""Archie""",male,25.4,0,0,239854,0.0,C95,S,0
+528,1,"Farthing, Mr. John",male,25.4,0,0,PC 17483,221.7792,C95,S,0
+856,3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,C95,S,1
+802,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,C95,S,1
+653,3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,C95,S,0
+510,3,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,C95,S,1
+558,1,"Robbins, Mr. Victor",male,25.4,0,0,PC 17757,227.525,C95,C,0
+829,3,"McCormack, Mr. Thomas Joseph",male,25.4,0,0,367228,7.75,C95,Q,1
+19,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,C95,S,0
